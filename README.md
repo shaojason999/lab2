@@ -1,1 +1,1 @@
-compile: make
+compile:make
